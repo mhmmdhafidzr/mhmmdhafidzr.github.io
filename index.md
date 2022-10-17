@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Google Data Analytics Capstone Project: Cyclistic Bike-Share Analysis](/Capstone-Project-Cyclistic-Bike-Share.html)
+[Google Data Analytics Capstone Project: Cyclistic Bike-Share Analysis](/Capstone-Project-Cyclistic-Bike-Share)
 <img src="images/Cyclistic.png?raw=true"/>
 
 ---
