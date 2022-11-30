@@ -1,0 +1,29 @@
+---
+title: 'Rock Paper Scissors Game: Machine Learning Project'
+author: "Muhammad Hafidz Roihan"
+date: "2022-11-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Requirements
+* **Python 3**
+* **TensorFlow**
+* **Keras**
+* **OpenCV**
+
+In this project, I will demonstrate a video about Rock Paper Scissors Game using Machine Learning
+
+Here's the preview:
+
+![](paper-preview.png)
+![](rock-preview.png)
+![](scissors-preview.png)
+
+### Video demonstration here [https://www.youtube.com/watch?v=-5XE2b0ba9M](https://www.youtube.com/watch?v=-5XE2b0ba9M)
+
+
+You can check the code on my [github](https://github.com/mhmmdhafidzr/RPS-Game)
