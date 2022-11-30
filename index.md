@@ -6,7 +6,6 @@
 
 [Google Data Analytics Capstone Project: Cyclistic Bike-Share Analysis](/Capstone-Project-Cyclistic-Bike-Share)
 <img src="images/Cyclistic.png?raw=true"/>
-
 [Rock Paper Scissors Game: Machine Learning Project](/rps-game)
 <img scr="images/rock-preview.png?raw=true"/>
 ---
